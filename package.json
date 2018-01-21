@@ -1,0 +1,19 @@
+{
+  "name": "image_bucket",
+  "version": "1.0.0",
+  "description": "Personal image blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimBye/image_bucket.git"
+  },
+  "author": "Kim Bye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimBye/image_bucket/issues"
+  },
+  "homepage": "https://github.com/KimBye/image_bucket#readme"
+}
